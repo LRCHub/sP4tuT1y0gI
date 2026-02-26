@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゴミ人間、俺",
+  "base_artist": "ヤングスキニー",
+  "createdAt": "2026-02-26T09:51:38.516863Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴミ人間、俺",
+      "artist": "ヤングスキニー",
+      "has_synced": false,
+      "path": "select/pl_01_ゴミ人間、俺_ヤングスキニー.txt"
+    }
+  ]
+}
